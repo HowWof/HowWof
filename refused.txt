@@ -1,1 +1,2 @@
-o-o.myaddr.l.google.com
+||o-o.myaddr.l.google.com^
+||app-measurement.com^
